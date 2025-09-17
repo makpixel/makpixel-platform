@@ -64,3 +64,14 @@ For technical support or partnership inquiries:
 
 ---
 *This repository contains public documentation for the MakPixel platform. Proprietary code is maintained privately for security purposes.*
+
+## Documentation
+
+- **Whitepaper**: https://makpixel.com/whitepaper.html
+- **Tokenomics**: https://makpixel.com/tokenomics.html  
+- **Roadmap**: https://makpixel.com/roadmap.html
+
+## Platform Links
+- **Live Platform**: https://makpixel.com
+- **Token Explorer**: https://solscan.io/token/Rt8TZokeX8vE2ftKwPH6h5DFdD7HS9SDKzysKuygfE5
+- **Vesting Contract**: https://app.streamflow.finance/contract/solana/mainnet/DSBtY5f6E7sKe3ZEHzC8xkuU31NAv5YQCsTb2pmqpayX
